@@ -14,3 +14,17 @@
 ---
 
 <!-- .slide: data-background="../img/type-effeciency.png" -->
+
+---
+
+## Transferable Objects
+
+### Not supported in IE
+
+### Object is completely transfered to recieving thread
+
+### Object is unreachable from sending thread
+
+---
+
+<!-- .slide: data-background="../img/transfer-improve.png" -->
