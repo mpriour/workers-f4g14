@@ -6,11 +6,15 @@
 <!-- .slide: data-background="rgba(168, 0, 32, 0.82)" -->
 ## XHR Proxy
 
-### Send url to worker
+* Send url to worker
 
-### Worker does XHR
+* Worker does XHR
 
-### Worker sends response to main thread
+* Worker sends response to main thread
+
+___
+
+### Better if computationally intensive post-request processing occurs
 
 ---
 

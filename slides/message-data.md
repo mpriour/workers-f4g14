@@ -17,13 +17,14 @@
 
 ---
 
+<!-- .slide: data-background="rgba(168, 0, 32, 0.82)" -->
 ## Transferable Objects
 
-### Not supported in IE
+* Not supported in IE
 
-### Object is completely transfered to recieving thread
+* Object is completely transfered to recieving thread
 
-### Object is unreachable from sending thread
+* Object is unreachable from sending thread
 
 ---
 
