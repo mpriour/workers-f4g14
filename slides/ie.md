@@ -1,5 +1,5 @@
 ##  IE :( <!-- .element: class="pullup" -->
-<!-- .slide: data-background="../img/sorry-ie.jpg" -->
+<!-- .slide: data-background="./img/sorry-ie.jpg" -->
 
 ---
 
@@ -11,7 +11,7 @@
 
 ---
 
-<!-- .slide: data-background="../img/nope.gif" -->
+<!-- .slide: data-background="./img/nope.gif" -->
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-<!-- .slide: data-background="../img/nope.gif" -->
+<!-- .slide: data-background="./img/nope.gif" -->
 
 ---
 
@@ -36,7 +36,7 @@
 
 ---
 
-<!-- .slide: data-background="../img/ie12_superman.jpg" -->
+<!-- .slide: data-background="./img/ie12_superman.jpg" -->
 
 ---
 

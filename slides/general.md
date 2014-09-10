@@ -1,5 +1,5 @@
 ##  Workers <!-- .element: class="pullup" -->
-<!-- .slide: data-background="../img/worker-toys.jpg" -->
+<!-- .slide: data-background="./img/worker-toys.jpg" -->
 
 ---
 

@@ -2,10 +2,6 @@
 
 This is a new Markdown slide
 
-<script>
-  console.log("will we keep this?")
-</script>
-
 ---
 
 <!-- .slide: class="slideclass" -->
@@ -22,7 +18,7 @@ Slide #3
 
 ---
 
-<!-- .slide: data-background="../img/sorry-ie.jpg" -->
+<!-- .slide: data-background="./img/sorry-ie.jpg" -->
 
 ---
 

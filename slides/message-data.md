@@ -5,15 +5,15 @@
 
 ---
 
-<!-- .slide: data-background="../img/rt-by-type.png" -->
+<!-- .slide: data-background="./img/rt-by-type.png" -->
 
 ---
 
-<!-- .slide: data-background="../img/rt-by-browser.png" -->
+<!-- .slide: data-background="./img/rt-by-browser.png" -->
 
 ---
 
-<!-- .slide: data-background="../img/type-effeciency.png" -->
+<!-- .slide: data-background="./img/type-effeciency.png" -->
 
 ---
 
@@ -27,4 +27,4 @@
 
 ---
 
-<!-- .slide: data-background="../img/transfer-improve.png" -->
+<!-- .slide: data-background="./img/transfer-improve.png" -->
